@@ -21,7 +21,7 @@ Eg:
 
 ```jsx
 import { mount as mountHeader } from 'https://header.news-portal.com/dist/header.js';
-import { mount as mountTrending } from 'https://header.news-portal.com/dist/trending.js';
+import { mount as mountTrending } from 'https://tredning.news-portal.com/dist/trending.js';
 
 // Or hosted by some microservices:
 [
